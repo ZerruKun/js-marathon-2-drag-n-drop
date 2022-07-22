@@ -7,7 +7,6 @@ const dragstart = (event) => {
 }
 
 const dragend = (event) => {
-    // event.target.classList.remove('hold', 'hide')
     event.target.classList = 'item'
 }
 
