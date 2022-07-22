@@ -36,4 +36,3 @@ for(const placeholder of placeholders) {
 
 item.addEventListener('dragstart', dragstart)
 item.addEventListener('dragend', dragend)
-
